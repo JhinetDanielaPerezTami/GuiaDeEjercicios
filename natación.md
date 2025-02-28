@@ -23,3 +23,11 @@ La natación es un ejercicio cardiovascular de bajo impacto que involucra el mov
 3. Realiza sesiones de 30 a 60 minutos, ajustando el ritmo y los estilos según tu nivel de habilidad.
 4. Descansa entre 20 y 30 segundos entre series, dependiendo de la intensidad del entrenamiento.
 5. Termina con un enfriamiento nadando a ritmo suave durante 5 a 10 minutos y realizando estiramientos fuera del agua para relajar los músculos.
+
+## Consejos
+- Mantén una postura correcta: La postura es esencial para nadar de forma eficiente. Asegúrate de mantener el cuerpo en una línea recta mientras nadas y de evitar movimientos innecesarios.
+- Usa respiración controlada: Practica la respiración rítmica para evitar que te quedes sin aliento. En el crol, por ejemplo, intenta respirar cada tres brazadas para mantener un flujo constante de oxígeno.
+- Varía los estilos: Cambiar entre estilos de natación no solo mantiene la rutina interesante, sino que también trabaja diferentes grupos musculares, ayudando a desarrollar fuerza y flexibilidad en todo el cuerpo.
+- Evita tensar el cuello: Al nadar en estilos como el crol o el mariposa, evita levantar la cabeza excesivamente para respirar, ya que esto puede causar tensión en el cuello. En lugar de eso, gira la cabeza suavemente para respirar.
+- Haz estiramientos: Después de nadar, realiza estiramientos fuera del agua para evitar la rigidez muscular y mejorar la flexibilidad.
+- Asegúrate de hidratarte bien: Aunque estés en el agua, tu cuerpo también pierde líquidos al hacer ejercicio. Bebe agua antes, durante y después de la sesión de natación.
