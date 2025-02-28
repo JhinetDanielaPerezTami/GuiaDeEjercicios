@@ -8,3 +8,14 @@ El ejercicio de fuerza involucra actividades que ayudan a aumentar la masa muscu
 - Mejora la densidad ósea, lo que ayuda a prevenir la osteoporosis.
 - Acelera el metabolismo, ayudando en la quema de calorías incluso en reposo.
 - Mejora el rendimiento en otras actividades físicas.
+
+## Instruciones
+1. Calienta antes de comenzar con ejercicios de movilidad articular para evitar lesiones.
+2. Realiza ejercicios de fuerza, como:
+- Sentadillas (con o sin peso)
+- Flexiones de brazo
+- Press de banca (si tienes acceso a pesas)
+- Elevaciones de piernas para trabajar el abdomen
+3. Realiza de 3 a 4 series de cada ejercicio, con 8 a 12 repeticiones.
+4. Descansa entre 60 y 90 segundos entre series para una recuperación óptima.
+5. Termina con un enfriamiento que incluya estiramientos de los músculos trabajados.
