@@ -47,3 +47,10 @@ Los ejercicios de flexibilidad ayudan a mejorar la movilidad y amplitud de movim
 
 4. Asegúrate de mantener cada estiramiento de manera controlada, sin
  forzar el cuerpo, y respira profundamente mientras estiras.
+
+## Consejos
+- No rebotes: Evita hacer movimientos rápidos o rebotar mientras realizas un estiramiento, ya que esto puede causar lesiones. Mantén cada posición de forma estática.
+- No ignores el dolor: Debes sentir una ligera tensión en el músculo, pero no dolor. Si sientes dolor, detente de inmediato.
+- Respira profundamente: La respiración es clave para relajarte y permitir que los músculos se estiren adecuadamente. Evita contener la respiración.
+- No estires cuando estés frío: Realiza los estiramientos solo después de un calentamiento, ya que los músculos fríos son más propensos a lesionarse.
+- Sé constante: La flexibilidad mejora con el tiempo, por lo que es importante ser constante con los estiramientos. Intenta realizarlos varias veces a la semana.
