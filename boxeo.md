@@ -11,3 +11,15 @@ El boxeo es un deporte y ejercicio cardiovascular que combina movimientos de gol
 - Mejora la agilidad: Los movimientos rápidos y los cambios de dirección que se requieren en el boxeo ayudan a mejorar la agilidad.
 - Aumenta la fuerza muscular: El entrenamiento de golpes y movimientos con resistencia mejora la fuerza general.
 - Reduce el estrés: El boxeo es conocido por liberar tensiones, lo que mejora la salud mental y reduce el estrés.
+
+## Instrucciones
+1. Calienta antes de comenzar con 5-10 minutos de saltar la cuerda o movimientos dinámicos para activar los músculos y preparar el cuerpo para el entrenamiento.
+2. Realiza una serie de ejercicios de boxeo, tales como:
+    - Golpes de sombra (shadow boxing): Trabaja la técnica de los golpes y la defensa sin un saco, mejorando la coordinación y la agilidad.
+    - Golpes al saco: Utiliza un saco de boxeo para practicar combinaciones de golpes (puños, ganchos, uppercuts) y mejorar la fuerza de los golpes.
+    - Entrenamiento de intervalos: Alterna entre sprints o golpes rápidos y descansos activos.
+    - Trabajo de pies (footwork): Realiza movimientos laterales, saltos o desplazamientos para mejorar la agilidad y la rapidez.
+    - Combinaciones de golpes: Practica combinaciones de puños, como el jab, cross, gancho y uppercut, para mejorar la coordinación y la técnica.
+3. Realiza sesiones de 30 a 60 minutos, ajustando la intensidad según tu nivel de habilidad.
+4. Descansa entre 30 y 60 segundos entre las series o rondas para una recuperación adecuada.
+5. Termina con un enfriamiento que incluya estiramientos y respiraciones profundas para relajar los músculos y mejorar la flexibilidad.
