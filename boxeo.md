@@ -23,3 +23,12 @@ El boxeo es un deporte y ejercicio cardiovascular que combina movimientos de gol
 3. Realiza sesiones de 30 a 60 minutos, ajustando la intensidad según tu nivel de habilidad.
 4. Descansa entre 30 y 60 segundos entre las series o rondas para una recuperación adecuada.
 5. Termina con un enfriamiento que incluya estiramientos y respiraciones profundas para relajar los músculos y mejorar la flexibilidad.
+
+## Consejos
+- Mantén una postura correcta: La postura es clave en el boxeo para realizar los golpes con precisión y evitar lesiones. Mantén los pies a la altura de los hombros, las rodillas ligeramente flexionadas y las manos cerca de la cara para protegerte.
+- Trabaja en la técnica: Es importante concentrarse en la técnica de los golpes y la defensa, no solo en la fuerza. Realiza movimientos controlados y asegúrate de que cada golpe se ejecute correctamente.
+- Respiración controlada: Asegúrate de respirar de manera constante y profunda, especialmente cuando realices combinaciones rápidas de golpes.
+- Usa guantes de boxeo y vendajes: Si trabajas con saco o realizas sparring, usa siempre guantes de boxeo y vendajes para proteger tus muñecas y dedos.
+- Trabaja en el trabajo de pies: El boxeo no solo se trata de golpear, sino también de moverse con rapidez y cambiar de posición. Practica el trabajo de pies para mejorar tu agilidad y desplazamiento.
+- Escucha a tu cuerpo: No sobrecargues tu entrenamiento. Es importante descansar y recuperarte adecuadamente entre rondas o sesiones intensas para evitar lesiones.
+- Mantén la constancia: El boxeo requiere práctica constante para mejorar la técnica, la velocidad y la fuerza. Intenta entrenar al menos 3 veces por semana para obtener mejores resultados.
