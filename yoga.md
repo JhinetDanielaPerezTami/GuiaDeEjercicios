@@ -24,3 +24,10 @@ El yoga es una práctica física, mental y espiritual que se enfoca en mejorar l
 3. Realiza de 3 a 5 series de cada postura, manteniéndola durante 30 segundos a 1 minuto, o según tu nivel de comodidad.
 4. Descansa entre cada postura con respiraciones profundas y consciencia en tu cuerpo. Si lo necesitas, puedes hacer la postura del niño para relajarte entre secuencias.
 5. Termina con un enfriamiento en Savasana (postura del cadáver), permitiendo que tu cuerpo se relaje y tu mente se calme completamente.
+
+# consejos
+- Escucha a tu cuerpo: El yoga se basa en la aceptación y el respeto hacia tu propio cuerpo. No fuerces ninguna postura, ve a tu propio ritmo y respeta tus límites.
+- Mantén la respiración fluida: La respiración es clave en yoga. Asegúrate de respirar profundamente y de forma controlada, permitiendo que cada inhalación y exhalación acompañe el movimiento.
+- Enfoque y concentración: El yoga no solo es un ejercicio físico, también es una práctica mental. Mantén tu atención en cada movimiento y en cómo se siente tu cuerpo durante la práctica.
+- Sé constante: La práctica regular de yoga mejora tanto la flexibilidad como la fuerza. Intenta practicar varias veces a la semana para obtener los mejores resultados.
+- Usa accesorios si es necesario: Si no puedes realizar una postura correctamente, puedes utilizar bloques, correas o cojines para hacer las posturas más accesibles y cómodas.
