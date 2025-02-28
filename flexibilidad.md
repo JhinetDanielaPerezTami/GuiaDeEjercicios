@@ -10,3 +10,40 @@ Los ejercicios de flexibilidad ayudan a mejorar la movilidad y amplitud de movim
 - Mejora la circulación sanguínea y alivia la tensión muscular.
 - Fomenta una postura adecuada y reduce dolores musculares y articulares.
 - Aumenta el bienestar mental y físico al reducir el estrés y la tensión.
+
+## Instrucciones
+1. Calienta brevemente con una caminata ligera o movimientos articulares para preparar los músculos.
+
+2. Realiza los siguientes ejercicios de estiramiento:
+
+    1. Estiramiento de isquiotibiales:
+
+    - De pie, coloca un pie hacia adelante y el otro ligeramente hacia atrás.
+    - Flexiona la pierna delantera y mantén la pierna trasera estirada.
+    - Inclínate hacia adelante desde las caderas y mantén la espalda recta.
+    - Mantén la posición durante 20-30 segundos y cambia de pierna.
+    2. Estiramiento de cuádriceps:
+
+    - De pie, dobla una pierna hacia atrás, sujetando el tobillo con la mano correspondiente.
+    - Tira de tu pie hacia tus glúteos, asegurándote de mantener las rodillas juntas.
+    - Mantén la postura durante 20-30 segundos y repite con la otra pierna.
+    3. Estiramiento de la espalda baja (Posición del niño):
+
+    - Colócate en posición de rodillas y siéntate sobre tus talones.
+    - Extiende los brazos hacia adelante en el suelo y deja caer la frente hacia el suelo.
+    - Relaja la espalda y mantén la postura durante 20-30 segundos.
+    4. Estiramiento de los hombros:
+
+    - Extiende un brazo al frente a la altura del pecho.
+    - Usa el otro brazo para tirar suavemente del brazo extendido hacia el cuerpo.
+    - Mantén la posición durante 20-30 segundos y luego cambia de brazo.
+    5. Estiramiento de los gemelos (pantorrillas):
+
+    - Colócate de pie frente a una pared y coloca una pierna hacia adelante con la rodilla ligeramente flexionada.
+    - La pierna trasera debe estar estirada con el talón en el suelo.
+    - Empuja hacia la pared hasta sentir el estiramiento en la pantorrilla de la pierna estirada.
+    - Mantén durante 20-30 segundos y cambia de pierna.
+3.  Repite cada estiramiento de 2 a 3 veces por lado.
+
+4. Asegúrate de mantener cada estiramiento de manera controlada, sin
+ forzar el cuerpo, y respira profundamente mientras estiras.
