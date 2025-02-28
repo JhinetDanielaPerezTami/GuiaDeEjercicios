@@ -22,3 +22,12 @@ El CrossFit es un entrenamiento de alta intensidad que combina movimientos funci
 3. Realiza sesiones de 30 a 60 minutos, según la intensidad del entrenamiento, con descansos activos entre las rondas.
 4. Descansa entre 30 y 90 segundos entre rondas o circuitos para una recuperación óptima.
 5. Termina con un enfriamiento que incluya estiramientos de todo el cuerpo, respiración profunda y relajación muscular.
+
+## Consejos
+- Comienza con cargas adecuadas: Si eres principiante, comienza con pesos moderados o ejercicios de bajo impacto para evitar lesiones y perfeccionar tu técnica antes de aumentar la carga.
+- Mantén la técnica correcta: Asegúrate de realizar los movimientos con la técnica adecuada, especialmente en los levantamientos, para evitar lesiones.
+- Escucha a tu cuerpo: El CrossFit es un entrenamiento desafiante, pero es importante escuchar a tu cuerpo y evitar sobreentrenarte. Descansa adecuadamente entre las sesiones.
+- Haz progresiones graduales: A medida que ganes fuerza y resistencia, aumenta gradualmente la intensidad y la carga de los ejercicios.
+- Respiración controlada: Es importante respirar correctamente durante los movimientos explosivos. Exhala durante el esfuerzo (por ejemplo, al levantar la barra) y respira durante la fase de descanso.
+- Entrena en equipo o con un compañero: El CrossFit es más efectivo cuando se realiza en un ambiente de grupo. Esto aumenta la motivación y permite la corrección de técnicas por otros.
+- Variedad: El CrossFit se basa en la variabilidad de los ejercicios. Asegúrate de cambiar los movimientos y los circuitos a lo largo del tiempo para evitar el estancamiento y trabajar diferentes grupos musculares.
