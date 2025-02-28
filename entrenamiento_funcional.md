@@ -22,3 +22,9 @@ El entrenamiento funcional involucra una serie de ejercicios que imitan los movi
 3. Realiza de 3 a 4 series de cada ejercicio, con 8 a 15 repeticiones, dependiendo del nivel de entrenamiento.
 4. Descansa entre 60 y 90 segundos entre series para una recuperación óptima. Si estás trabajando a alta intensidad, puedes reducir el tiempo de descanso.
 5. Termina con un enfriamiento que incluya estiramientos dinámicos y estáticos de los músculos trabajados (piernas, glúteos, espalda, hombros).
+
+# consejos
+- Escucha a tu cuerpo: Asegúrate de realizar los movimientos correctamente para evitar lesiones. Si no puedes realizar un ejercicio con la técnica adecuada, es mejor modificarlo o usar una versión más fácil.
+- Mantén el core activo: La mayoría de los ejercicios funcionales requieren que tu core esté activado para mantener la estabilidad. Asegúrate de mantener una postura correcta en todo momento.
+- Usa movimientos naturales: Los ejercicios funcionales imitan movimientos que realizamos en la vida cotidiana. Si no estás familiarizado con algún ejercicio, imagina cómo realizarías un movimiento cotidiano y adáptalo a tu entrenamiento.
+- Varía los ejercicios: Cambiar los ejercicios con regularidad es importante para evitar la adaptación muscular y mantener el entrenamiento interesante y desafiante.
