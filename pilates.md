@@ -24,3 +24,11 @@ El Pilates es un método de entrenamiento que se centra en el fortalecimiento de
 3. Realiza de 3 a 4 series de cada ejercicio, con 8 a 12 repeticiones por serie, o manteniendo las posiciones durante 30 segundos a 1 minuto.
 4. Descansa entre 30 y 60 segundos entre cada serie para permitir que los músculos se recuperen.
 5. Termina con un enfriamiento que incluya estiramientos suaves y respiraciones profundas para relajar el cuerpo y liberar cualquier tensión acumulada.
+
+## Consejos
+- controla la respiración: En Pilates, la respiración es fundamental para ayudar a activar los músculos y mantener el control en cada movimiento.- Asegúrate de inhalar profundamente y exhalar al realizar movimientos de esfuerzo.
+- Haz los movimientos lentos y controlados: La clave de Pilates es la precisión y el control, no la rapidez. Realiza cada ejercicio con calma, prestando atención a la técnica.
+- Activa siempre el core: Asegúrate de mantener el abdomen contraído y la espalda recta en todo momento. Esto es crucial para proteger la columna vertebral y maximizar los beneficios.
+- Usa un mat adecuado: Un mat de Pilates o yoga es esencial para brindarte comodidad y estabilidad durante los ejercicios.
+- Escucha a tu cuerpo: No te sobreexijas. Si sientes que un movimiento es demasiado desafiante, ajusta la intensidad o modifica la postura.
+- Practica con regularidad: El Pilates es más efectivo cuando se realiza de forma constante. Intenta practicar al menos 2 a 3 veces a la semana.
